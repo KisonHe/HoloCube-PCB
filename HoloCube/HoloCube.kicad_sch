@@ -1539,7 +1539,6 @@
     )
   )
 
-
   (junction (at 52.578 72.644) (diameter 0) (color 0 0 0 0)
     (uuid 16562ae1-eac3-47a8-aa55-1ca043ab282c)
   )
@@ -1611,7 +1610,7 @@
   )
 
   (no_connect (at 72.898 138.684) (uuid 16c86863-2fa3-4a36-afff-8144714ac96e))
-  (no_connect (at 72.898 141.224) (uuid 16c86863-2fa3-4a36-afff-8144714ac96e))
+  (no_connect (at 72.898 141.224) (uuid 16c86863-2fa3-4a36-afff-8144714ac96f))
   (no_connect (at 72.898 98.044) (uuid 64f4e9eb-46c4-4d97-8acb-e0e526607370))
   (no_connect (at 72.898 100.584) (uuid 64f4e9eb-46c4-4d97-8acb-e0e526607371))
   (no_connect (at 32.258 82.804) (uuid 64f4e9eb-46c4-4d97-8acb-e0e526607372))
@@ -2626,7 +2625,7 @@
     (property "Value" "Conn_01x12_MountingPin" (id 1) (at 154.7622 168.1734 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal" (id 2) (at 149.352 155.956 0)
+    (property "Footprint" "KisonNew:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal" (id 2) (at 149.352 155.956 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 149.352 155.956 0)
@@ -3585,7 +3584,7 @@
     (uuid f15eb5af-b449-4723-9151-8d0ef904f670)
     (property "Reference" "J3" (id 0) (at 245.1608 59.8932 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 244.729 62.484 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 246.253 81.915 0)
+    (property "Footprint" "KisonNew:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 246.253 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 246.253 81.915 0)
@@ -3906,10 +3905,10 @@
       (reference "J1") (unit 1) (value "ESPProgUART_RX") (footprint "KisonNew:IDC_1.27mm_6P")
     )
     (path "/504ab751-c266-4390-ae52-5fa7e3b19b10"
-      (reference "J2") (unit 1) (value "Conn_01x12_MountingPin") (footprint "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x12_MountingPin") (footprint "KisonNew:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal")
     )
     (path "/f15eb5af-b449-4723-9151-8d0ef904f670"
-      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "KisonNew:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/0dd6e263-899e-4549-8e45-af474db9b325"
       (reference "J4") (unit 1) (value "Micro_SD_Card") (footprint "KisonNew:C91145")

@@ -407,7 +407,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../Downloads/HoloCube.step",
+      "step": "../../../../Downloads/HoloCube.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

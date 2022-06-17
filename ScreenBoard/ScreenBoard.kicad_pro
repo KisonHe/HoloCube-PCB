@@ -403,11 +403,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "../../../../Downloads/ScreenBoard.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../Downloads/ScreenBoard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
